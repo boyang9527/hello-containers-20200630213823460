@@ -12,5 +12,9 @@
     "validator": "*",
     "jquery": "*",
     "request-json": "*"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
   }
 }
